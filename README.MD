@@ -43,12 +43,12 @@ Agora basta abrir o emulador pelo seu computador, ou o aplicativo do Expo no seu
 
 # 📱 ScreenShot App
 <p align="left">
-<img src="./src/assets/ScreenShot-1.jpg" width="213">
-<img src="./src/assets/ScreenShot-2.jpg" width="213">
+<img src="https://github.com/giljrsantos/react-native-interface-loja-virtual/blob/master/src/assets/Screenshot-1.jpg" width="213">
+<img src="https://github.com/giljrsantos/react-native-interface-loja-virtual/blob/master/src/assets/Screenshot-2.jpg" width="213">
 </p>
 <p align="left">
-<img src="./src/assets/ScreenShot-4.jpg" width="213">
-<img src="./src/assets/ScreenShot-3.jpg" width="213">
+<img src="https://github.com/giljrsantos/react-native-interface-loja-virtual/blob/master/src/assets/Screenshot-3.jpg" width="213">
+<img src="https://github.com/giljrsantos/react-native-interface-loja-virtual/blob/master/src/assets/Screenshot-4.jpg" width="213">
 </p>
 
 ---
