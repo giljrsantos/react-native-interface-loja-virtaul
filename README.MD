@@ -2,7 +2,8 @@
 
 Interface de uma loja virtual feito com REACT NATIVE. 
 
-Repositório com o código fonte do aplicativo.
+Repositório com o código fonte do aplicativo. A loja virtual lista os tênis, junto com o nome e o valor.
+Na página de detalhe do produto. Aplicativo mostra a descrição do produto, quais as cores, e o tamanho selecionado.
 
 Este projeto utiliza o [Expo](https://expo.io/). A versão do `expo-cli` usado foi a `3.24.2`
 ---
