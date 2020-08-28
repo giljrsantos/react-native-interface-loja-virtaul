@@ -48,10 +48,5 @@ Agora basta abrir o emulador pelo seu computador, ou o aplicativo do Expo no seu
 <img src="https://github.com/giljrsantos/react-native-interface-loja-virtual/blob/master/src/assets/Screenshot-3.jpg" width="213">
 <img src="https://github.com/giljrsantos/react-native-interface-loja-virtual/blob/master/src/assets/Screenshot-4.jpg" width="213">
 </p>
-<p align="left">
-<img src="https://github.com/giljrsantos/react-native-interface-loja-virtual/blob/master/src/assets/Screenshot-3.jpg" width="213">
-<img src="https://github.com/giljrsantos/react-native-interface-loja-virtual/blob/master/src/assets/Screenshot-4.jpg" width="213">
-</p>
-
 ---
 <h1 align="center">💻 Desenvolvido Por: Gilberto Júnior</h1>
