@@ -23,7 +23,7 @@ Este projeto utiliza o [Expo](https://expo.io/). A versão do `expo-cli` usado f
 
 Você precisará ter apenas o [NodeJS](https://nodejs.org) instalado na sua máquina, e após isso, clonar este repositório:
 ```sh
-  $ git clone https://github.com/giljrsantos/picpay-clone.git
+  $ git clone https://github.com/giljrsantos/react-native-interface-loja-virtual.git
 ```
 
 Depois disso acesse a pasta da aula que você deseja e instale as dependências executando o seguinte comando:
